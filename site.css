@@ -8,6 +8,14 @@ h1,h2{
     height:70vh;
     background: url("image.jpg")  no-repeat;
     background-size: 1280px;}
+.legend{
+    font-weight: 700;
+    text-align: center;
+    font-family: "Brush Script MT", Brush Script Std, cursive;
+    font-size:25px;}
+.end {
+    background-color:#42aaf5;
+    outline: 5px solid #377ced; }
 .hotbar {
     color : #ffffff;
     text-align:right;
@@ -42,13 +50,3 @@ h1,h2{
     text-align: center;
     font-family: "Courier", monospace;
     font-size:25px;  }
-.legend{
-    font-weight: 700;
-    text-align: center;
-    font-family: "Brush Script MT", Brush Script Std, cursive;
-    font-size:25px;}
-.end {
-    background-color:#42aaf5;
-    outline: 5px solid #377ced; 
-
-}
