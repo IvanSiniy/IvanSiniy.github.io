@@ -1,0 +1,58 @@
+body{
+    margin:3px;
+    background:black;}
+h1,h2{
+    font-family: "Luminari", fantasy;
+    color:white;
+ text-align: center;}
+.intro {
+    width:100%;
+    height:70vh;
+    background: url("image.jpg")  no-repeat;
+    background-size: 1280px;}
+.hotbar {
+    color : #ffffff;
+    text-align:right;
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    padding-right:20px;
+    font-weight: 600;}
+.hotbar:hover {
+    color:#f5f542;
+    transition: 0.3s;}
+.nasar {
+    background: url("creators/nasar-min.png") no-repeat;
+    width:100%;
+    height:40vh;  }
+.taras {
+    background: url("creators/taras.png") no-repeat;
+    width:100%;
+    height:40vh; }
+.ivan{
+    background: url("creators/ivan.png") no-repeat;
+    width:100%;
+    height:50vh;}
+.bigor{
+    background: url("creators/bigor.png") no-repeat;
+    width:100%;
+    height:50vh;}
+
+.creator_text {
+    margin-left:370px;
+    margin-right: 50px;
+   font-weight: 700;
+     color:white;
+    text-align: center;
+    font-family: "Courier", monospace;
+    font-size:25px;  }
+.legend{
+    font-weight: 700;
+    text-align: center;
+    color:white;
+    font-family: "Brush Script MT", Brush Script Std, cursive;
+    font-size:25px;}
+.end {
+    background-color:#42aaf5;
+    outline: 5px solid #377ced; 
+
+}
