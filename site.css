@@ -8,11 +8,6 @@ h1,h2{
     height:70vh;
     background: url("image.jpg")  no-repeat;
     background-size: 1280px;}
-.legend{
-    font-weight: 700;
-    text-align: center;
-    font-family: "Brush Script MT", Brush Script Std, cursive;
-    font-size:25px;}
 .hotbar {
     color : #ffffff;
     text-align:right;
@@ -40,12 +35,51 @@ h1,h2{
     width:100%;
     height:50vh;}
 .creator_text {
-    margin-left:370px;
+    margin-left:430px;
     margin-right: 50px;
    font-weight: 700;
     text-align: center;
     font-family: "Courier", monospace;
     font-size:25px;  }
+.gods_text{
+    margin-left:430px;
+    margin-right: 50px;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Courier", monospace;
+    font-size:25px; }
+.legend{
+    font-weight: 700;
+    text-align: center;
+    font-family: "Brush Script MT", Brush Script Std, cursive;
+    font-size:25px;}
+.merzlyak{
+    background: url("gods/Merzlyak.png") no-repeat;
+    width:100%;
+    height:40vh;}
+.ricardo{
+    background: url("gods/Ricardo.png") no-repeat;
+    width:100%;
+    height:40vh;}
+.elon{
+    background: url("gods/Elon.png") no-repeat;
+    width:100%;
+    height:40vh;}
+.elon:hover{
+    background: url("gods/Elon1.jpg") no-repeat;
+     transition: 3s;}
+.lyashko{
+    background: url("gods/Lyashko.png") no-repeat;
+    width:100%;
+    height:60vh;}
+.musicgod{
+    background: url("gods/Bethoven.png") no-repeat;
+    width:100%;
+    height:40vh;}
+.snoop{
+    background: url("gods/Snoop.png") no-repeat;
+    width:100%;
+    height:40vh;}
 .end {
     background-color:#42aaf5;
-    outline: 5px solid #377ced; }
+    outline: 5px solid #377ced;}
